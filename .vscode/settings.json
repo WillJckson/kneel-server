@@ -1,0 +1,12 @@
+{
+    "python.formatting.autopep8Path": "/home/willthejackson/.pyenv/shims/autopep8",
+    "python.linting.pylintEnabled": true,
+    "python.analysis.diagnosticSeverityOverrides": {
+    "reportGeneralTypeIssues": "none"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#253204",
+        "titleBar.activeBackground": "#334605",
+        "titleBar.activeForeground": "#F6FDE5"
+    }
+ }
